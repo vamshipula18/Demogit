@@ -1,0 +1,24 @@
+2024-06-09 09:20:01,032 :INFO :test_e2e :Entering into the shop page
+2024-06-09 09:20:01,833 :INFO :test_e2e :viewing mobiles and selecting mobiles with text
+2024-06-09 09:20:02,426 :INFO :test_e2e :Checking out
+2024-06-09 09:20:02,941 :INFO :test_e2e :Entering country name
+2024-06-09 09:20:05,986 :INFO :test_e2e :matching country name
+2024-06-09 09:20:08,849 :INFO :test_e2e :getting final success message
+2024-06-09 09:31:04,454 :INFO :test_e2e :Entering into the shop page
+2024-06-09 09:31:05,251 :INFO :test_e2e :viewing mobiles and selecting mobiles with text
+2024-06-09 09:31:05,492 :INFO :test_e2e :Checking out
+2024-06-09 09:31:05,600 :INFO :test_e2e :Entering country name
+2024-06-09 09:31:08,670 :INFO :test_e2e :matching country name
+2024-06-09 09:31:10,874 :INFO :test_e2e :getting final success message
+2024-06-09 09:39:08,564 :INFO :test_e2e :Entering into the shop page
+2024-06-09 09:39:09,441 :INFO :test_e2e :viewing mobiles and selecting mobiles with text
+2024-06-09 09:39:09,676 :INFO :test_e2e :Checking out
+2024-06-09 09:39:09,784 :INFO :test_e2e :Entering country name
+2024-06-09 09:39:12,850 :INFO :test_e2e :matching country name
+2024-06-09 09:39:15,155 :INFO :test_e2e :getting final success message
+2024-06-09 09:49:00,433 :INFO :test_e2e :Entering into the shop page
+2024-06-09 09:49:01,447 :INFO :test_e2e :viewing mobiles and selecting mobiles with text
+2024-06-09 09:49:01,679 :INFO :test_e2e :Checking out
+2024-06-09 09:49:01,788 :INFO :test_e2e :Entering country name
+2024-06-09 09:49:04,875 :INFO :test_e2e :matching country name
+2024-06-09 09:49:07,146 :INFO :test_e2e :getting final success message
